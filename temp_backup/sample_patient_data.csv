@@ -1,0 +1,201 @@
+claim_amount,age,gender,city_x,state_x,zip_code_x,payment_amount,doctor_name,specialty,city_y,state_y,zip_code_y,phone_y,is_fraud
+19352.47,41,Male,New York,NY,89026,11805.0067,Dr. Smith,Cardiology,New York,NY,45298,+1-3296978004,0
+47585.0,89,Female,Los Angeles,IL,77526,44729.899999999994,Dr. Johnson,Cardiology,Chicago,AZ,61112,+1-7226268586,0
+36867.7,53,Female,Los Angeles,IL,80835,30600.190999999995,Dr. Patel,Dermatology,New York,TX,33429,+1-6112158271,0
+30334.27,55,Female,Los Angeles,AZ,55765,22447.3598,Dr. Wang,Dermatology,New York,CA,60200,+1-8843645820,0
+8644.91,42,Female,Chicago,TX,29956,6483.6825,Dr. Johnson,General,Houston,NY,81308,+1-8377114353,0
+8643.73,35,Female,Phoenix,CA,97895,6828.5467,Dr. Johnson,Cardiology,Los Angeles,IL,58244,+1-1059377637,0
+3846.1,83,Other,Phoenix,TX,56240,3807.6389999999997,Dr. Wang,Dermatology,Chicago,TX,27347,+1-4863942468,1
+43442.63,71,Male,New York,TX,47148,39967.2196,Dr. Patel,Dermatology,Phoenix,CA,26920,+1-6660456259,0
+30454.64,52,Other,New York,IL,14757,24972.804799999998,Dr. Smith,Cardiology,Phoenix,AZ,41822,+1-2158455824,0
+35695.56,78,Female,Los Angeles,TX,29097,19632.558,Dr. Smith,Dermatology,New York,NY,56659,+1-2351353653,0
+2008.64,58,Male,New York,NY,20395,1104.7520000000002,Dr. Patel,General,Houston,CA,50108,+1-9971964250,1
+48525.58,50,Female,Chicago,IL,26241,24262.79,Dr. Johnson,Cardiology,Houston,AZ,99099,+1-9153581266,0
+41789.69,85,Male,Phoenix,NY,37696,49311.8342,Dr. Johnson,General,Phoenix,CA,17967,+1-8553309169,0
+11404.62,50,Other,Los Angeles,CA,80480,5702.31,Dr. Johnson,General,Chicago,TX,21871,+1-3616634852,1
+9909.42,31,Male,New York,IL,56163,5648.3694,Dr. Johnson,General,Los Angeles,TX,87452,+1-1327139490,0
+9986.82,38,Male,Chicago,CA,29816,7190.510399999999,Dr. Patel,General,Chicago,TX,84270,+1-9717019134,0
+15907.87,65,Male,Chicago,IL,59840,17021.4209,Dr. Johnson,Cardiology,Los Angeles,NY,43613,+1-4015382495,0
+26713.07,37,Male,New York,AZ,62853,31254.291899999997,Dr. Wang,General,Phoenix,TX,38179,+1-9941197949,0
+22165.31,25,Male,Phoenix,TX,34917,23273.575500000003,Dr. Johnson,General,Los Angeles,AZ,62188,+1-3572175432,1
+15270.23,24,Female,New York,AZ,31566,14964.8254,Dr. Smith,Dermatology,Houston,CA,65099,+1-1818117324,0
+30980.79,84,Male,Los Angeles,CA,85452,26643.4794,Dr. Johnson,Cardiology,New York,IL,45262,+1-2910417119,0
+7835.2,34,Male,New York,TX,72823,4387.712,Dr. Patel,Cardiology,New York,AZ,88213,+1-5229373841,0
+15315.09,50,Other,Chicago,IL,30806,17918.6553,Dr. Smith,Orthopedics,Phoenix,AZ,28268,+1-5923218892,0
+18951.73,65,Male,New York,TX,85520,19520.2819,Dr. Patel,Cardiology,Houston,TX,87866,+1-4029757710,0
+23347.43,76,Other,Phoenix,NY,11759,22180.0585,Dr. Patel,Cardiology,Chicago,NY,96269,+1-5622082969,0
+39473.62,39,Female,Houston,TX,51949,40657.8286,Dr. Smith,Orthopedics,Houston,CA,70545,+1-7830810175,0
+10784.02,47,Male,New York,NY,12482,10891.860200000001,Dr. Patel,Cardiology,New York,NY,82146,+1-5782774360,0
+26197.49,55,Other,Phoenix,TX,34442,24887.6155,Dr. Patel,Cardiology,New York,CA,81966,+1-1812163442,0
+30028.31,68,Other,Phoenix,NY,43719,35733.6889,Dr. Johnson,Cardiology,Houston,CA,49922,+1-3610749328,0
+3276.07,71,Female,Chicago,CA,68066,3701.9591,Dr. Wang,Cardiology,Houston,NY,89364,+1-3383722647,0
+30769.7,25,Male,Phoenix,AZ,12079,29231.215,Dr. Patel,Orthopedics,New York,AZ,52913,+1-2964917395,0
+9355.68,44,Male,Phoenix,IL,12717,9262.1232,Dr. Patel,Cardiology,Chicago,CA,65677,+1-3599987964,1
+4187.53,44,Other,Phoenix,TX,69676,2261.2662,Dr. Patel,Cardiology,Phoenix,NY,59841,+1-3925608887,0
+47495.39,38,Male,Phoenix,AZ,37952,46070.5283,Dr. Johnson,Orthopedics,Phoenix,CA,56332,+1-6123677569,0
+48315.97,47,Other,Los Angeles,IL,96444,25607.4641,Dr. Wang,Dermatology,Houston,IL,35032,+1-1055853994,0
+40611.47,45,Male,Los Angeles,IL,52460,36956.4377,Dr. Smith,General,Phoenix,AZ,47846,+1-3074814797,0
+15926.07,81,Other,Chicago,NY,82847,19111.284,Dr. Johnson,Dermatology,New York,TX,69474,+1-4215411833,0
+5785.93,86,Male,New York,CA,99106,5149.4777,Dr. Johnson,Orthopedics,New York,CA,54936,+1-8687016846,0
+34527.42,78,Female,Phoenix,CA,28449,28657.758599999997,Dr. Wang,General,Houston,IL,39794,+1-4028308195,0
+22567.47,65,Male,New York,AZ,43536,16248.5784,Dr. Wang,Orthopedics,Houston,TX,71588,+1-3316750410,0
+6979.87,36,Male,New York,CA,74077,4048.3245999999995,Dr. Johnson,Orthopedics,Houston,TX,80984,+1-2685365751,0
+25263.67,21,Female,Chicago,TX,48258,25516.306699999997,Dr. Smith,Cardiology,Chicago,CA,60331,+1-2294844232,0
+2685.04,52,Male,Phoenix,CA,58302,1691.5752,Dr. Johnson,General,Phoenix,NY,38141,+1-8957589805,0
+45556.7,81,Female,Phoenix,AZ,38865,26422.885999999995,Dr. Wang,Cardiology,Houston,CA,19074,+1-2634380977,1
+13680.22,66,Male,Houston,CA,16645,10944.176,Dr. Smith,General,Los Angeles,IL,16406,+1-3739771293,0
+33463.59,34,Other,New York,TX,48000,35471.405399999996,Dr. Wang,Orthopedics,Los Angeles,TX,33291,+1-7036800146,0
+16273.84,61,Other,New York,NY,36737,16599.3168,Dr. Smith,Orthopedics,New York,CA,51568,+1-2156916521,0
+26483.33,47,Male,Los Angeles,AZ,21485,14300.998200000002,Dr. Patel,Dermatology,Phoenix,NY,56851,+1-1132779634,0
+27788.8,63,Male,Houston,NY,48565,22786.816,Dr. Wang,General,Houston,CA,64823,+1-7111117703,0
+10057.87,23,Male,Los Angeles,NY,35522,8750.3469,Dr. Wang,Cardiology,Los Angeles,AZ,33312,+1-6687175942,1
+48509.65,54,Other,Los Angeles,NY,75155,46084.167499999996,Dr. Johnson,Dermatology,Phoenix,NY,53108,+1-2809456277,0
+38981.51,41,Male,Los Angeles,IL,65168,37422.2496,Dr. Wang,Dermatology,New York,IL,76918,+1-7121222519,0
+47035.45,63,Other,Chicago,IL,62487,35746.941999999995,Dr. Wang,Dermatology,Chicago,TX,44171,+1-5634837332,1
+44846.54,70,Female,Chicago,NY,22342,39913.420600000005,Dr. Patel,Cardiology,Phoenix,CA,51779,+1-1757231131,0
+30297.1,77,Other,Los Angeles,AZ,50806,25449.564,Dr. Wang,Dermatology,Phoenix,NY,78828,+1-8729018639,0
+46171.84,80,Other,Houston,TX,58770,51712.4608,Dr. Patel,Cardiology,Chicago,AZ,22411,+1-8036646908,0
+5336.13,49,Female,New York,TX,88623,4642.4331,Dr. Patel,Dermatology,Phoenix,NY,67009,+1-5428306740,0
+10603.16,50,Other,Houston,CA,85629,8588.5596,Dr. Patel,Cardiology,New York,AZ,25422,+1-5543867491,0
+3216.14,84,Male,Phoenix,AZ,62603,2508.5892,Dr. Patel,Orthopedics,New York,IL,52468,+1-7160197194,0
+16941.19,35,Male,Chicago,IL,91974,15247.071,Dr. Smith,Orthopedics,Chicago,TX,42371,+1-5116093870,0
+20045.19,42,Other,New York,NY,36399,21247.9014,Dr. Johnson,Orthopedics,Houston,IL,67022,+1-9294676991,0
+14296.1,71,Male,New York,CA,95382,12580.568000000001,Dr. Smith,Orthopedics,Los Angeles,CA,81229,+1-2775507905,0
+41608.14,75,Other,Phoenix,TX,91244,39943.814399999996,Dr. Wang,Orthopedics,Houston,NY,61196,+1-2621064683,0
+18480.91,84,Male,Phoenix,IL,86534,18850.5282,Dr. Smith,Dermatology,Phoenix,AZ,90354,+1-2445252031,0
+14765.79,63,Male,Los Angeles,IL,65106,12698.5794,Dr. Smith,Dermatology,Los Angeles,AZ,36715,+1-1325113729,0
+27592.11,41,Other,Chicago,NY,40678,22073.688000000002,Dr. Wang,Dermatology,Chicago,NY,37605,+1-4916247128,0
+7905.29,49,Male,Chicago,TX,86218,8774.8719,Dr. Wang,Cardiology,Chicago,NY,41174,+1-9136691570,0
+40307.65,64,Other,Houston,AZ,73230,31843.043500000003,Dr. Wang,Cardiology,Los Angeles,CA,19956,+1-7135907626,0
+4652.98,40,Male,Los Angeles,IL,84055,3815.4435999999996,Dr. Smith,Cardiology,New York,IL,86373,+1-4906368710,0
+49357.46,83,Male,Los Angeles,NY,66373,58735.3774,Dr. Smith,Cardiology,Los Angeles,AZ,79252,+1-3028547021,0
+38839.99,44,Female,Los Angeles,AZ,41480,19419.995,Dr. Wang,Orthopedics,Phoenix,CA,71949,+1-2455472417,0
+10737.07,19,Female,Los Angeles,TX,95230,6764.3541,Dr. Johnson,Orthopedics,New York,IL,72646,+1-2239006624,0
+1270.58,34,Other,Chicago,IL,78836,978.3466,Dr. Johnson,Orthopedics,Chicago,CA,80017,+1-2404470272,0
+40957.61,50,Female,Chicago,AZ,82258,47101.2515,Dr. Patel,General,Los Angeles,AZ,73037,+1-9534003196,0
+35636.01,26,Other,Los Angeles,AZ,49986,19599.805500000002,Dr. Wang,Dermatology,Houston,NY,99818,+1-2623805848,0
+36721.35,60,Female,Houston,AZ,34160,18727.8885,Dr. Patel,Cardiology,Houston,NY,16548,+1-6827583269,0
+38792.25,65,Male,New York,IL,95595,20947.815000000002,Dr. Johnson,Cardiology,Phoenix,IL,83294,+1-3027929956,0
+4628.19,56,Other,New York,IL,89111,2591.7864,Dr. Patel,Orthopedics,Houston,TX,33177,+1-1823937954,0
+18564.82,59,Other,Houston,CA,74929,9839.3546,Dr. Wang,Cardiology,Los Angeles,IL,34022,+1-5528293183,0
+6677.58,43,Male,Los Angeles,TX,83506,5609.1672,Dr. Wang,Cardiology,Los Angeles,TX,15542,+1-1789977165,0
+43292.07,67,Other,Chicago,NY,44911,39395.7837,Dr. Wang,Dermatology,Houston,CA,70428,+1-9690862402,0
+31541.61,42,Other,New York,AZ,97127,21763.7109,Dr. Smith,Orthopedics,Los Angeles,CA,32740,+1-8425418827,0
+17214.0,41,Female,Phoenix,CA,41821,13426.92,Dr. Patel,Dermatology,Phoenix,AZ,69353,+1-6207025813,0
+4114.36,30,Other,Phoenix,NY,85039,2304.0416,Dr. Johnson,General,New York,TX,66532,+1-2459750881,0
+16238.13,77,Male,Houston,CA,70535,12016.216199999999,Dr. Johnson,General,Phoenix,AZ,26052,+1-3053516422,0
+16933.98,24,Female,Los Angeles,IL,94458,14732.5626,Dr. Johnson,General,Phoenix,NY,57076,+1-4452592810,0
+36750.7,74,Female,New York,AZ,22175,37118.206999999995,Dr. Smith,Orthopedics,Los Angeles,TX,63420,+1-7237266713,0
+32240.32,53,Male,Los Angeles,NY,64771,16120.16,Dr. Smith,Cardiology,New York,IL,10671,+1-5249261929,1
+44473.42,62,Male,New York,NY,96925,36912.938599999994,Dr. Wang,Orthopedics,Los Angeles,NY,10163,+1-8407658603,0
+24138.53,37,Female,Houston,NY,76358,17138.3563,Dr. Johnson,Orthopedics,Chicago,NY,51424,+1-5837967850,0
+6860.12,82,Other,Houston,NY,27327,7546.1320000000005,Dr. Smith,Cardiology,Los Angeles,IL,63744,+1-9355346430,0
+35948.99,25,Female,Phoenix,NY,57057,35948.99,Dr. Wang,Dermatology,Los Angeles,NY,80331,+1-4739422091,0
+38278.47,33,Male,Los Angeles,CA,16150,34833.4077,Dr. Johnson,General,Los Angeles,TX,20634,+1-3569053430,0
+28502.58,31,Female,Phoenix,AZ,14425,19666.7802,Dr. Patel,Dermatology,New York,AZ,14798,+1-8496223320,0
+38777.39,32,Male,Los Angeles,IL,26032,44206.224599999994,Dr. Wang,General,Los Angeles,NY,32420,+1-5826281856,0
+25195.98,83,Female,Phoenix,IL,12198,13353.8694,Dr. Smith,Orthopedics,New York,TX,39300,+1-5611710212,0
+26613.91,49,Other,Chicago,IL,70500,15436.067799999999,Dr. Smith,General,Houston,CA,99881,+1-5825041607,0
+21949.51,80,Female,Chicago,IL,63394,16901.1227,Dr. Wang,Orthopedics,Chicago,TX,20749,+1-1056317532,0
+2245.54,68,Female,Chicago,CA,30079,1324.8686,Dr. Wang,Dermatology,New York,AZ,35121,+1-3110390951,0
+6286.68,42,Male,Chicago,TX,46220,7355.4156,Dr. Smith,Orthopedics,Houston,TX,47487,+1-2448770463,0
+2540.03,75,Male,New York,AZ,51874,2692.4318000000003,Dr. Patel,Dermatology,New York,IL,43361,+1-4545033002,0
+32184.11,80,Male,Chicago,NY,23859,21885.1948,Dr. Johnson,Cardiology,New York,AZ,31223,+1-9267664221,0
+16403.44,79,Female,Houston,TX,60460,14927.1304,Dr. Patel,Cardiology,Chicago,CA,82930,+1-7835057185,0
+25919.96,39,Other,Houston,IL,41419,30844.752399999998,Dr. Wang,Cardiology,Phoenix,IL,24056,+1-9634201378,1
+45470.76,75,Male,New York,TX,18705,50927.251200000006,Dr. Patel,Orthopedics,Phoenix,TX,38380,+1-3669010926,0
+13215.32,75,Male,Chicago,AZ,52880,12158.0944,Dr. Smith,Cardiology,New York,AZ,36035,+1-2371304488,0
+21108.76,66,Female,Chicago,NY,33236,23852.898799999995,Dr. Wang,General,Los Angeles,CA,40620,+1-8319769885,0
+38022.01,69,Male,Chicago,NY,97955,45246.1919,Dr. Johnson,Dermatology,Houston,IL,29877,+1-1861052461,0
+12211.11,59,Other,Phoenix,AZ,95514,12455.3322,Dr. Smith,Dermatology,Los Angeles,CA,65316,+1-2731106680,0
+4772.02,87,Other,Los Angeles,AZ,25358,2624.6110000000003,Dr. Smith,General,Los Angeles,TX,74041,+1-4552153862,0
+15197.82,32,Male,Phoenix,IL,86918,11854.2996,Dr. Johnson,Orthopedics,New York,CA,63352,+1-3964142740,0
+8899.84,71,Male,Los Angeles,NY,24596,9700.8256,Dr. Johnson,Orthopedics,New York,NY,40911,+1-5164464514,0
+46555.18,77,Female,Chicago,TX,43572,30726.418800000003,Dr. Patel,Dermatology,New York,IL,42784,+1-1060563717,0
+40597.9,25,Other,Chicago,CA,88757,43845.732,Dr. Wang,Cardiology,New York,CA,13191,+1-8672530584,0
+32036.78,70,Other,Phoenix,CA,11279,18581.3324,Dr. Johnson,Orthopedics,Phoenix,TX,43160,+1-9460872861,0
+43701.57,77,Male,Phoenix,AZ,73197,23161.8321,Dr. Johnson,Orthopedics,New York,TX,74641,+1-9869573863,0
+40379.93,22,Female,Los Angeles,IL,72516,31092.5461,Dr. Wang,General,Phoenix,CA,59723,+1-9630225213,0
+10141.93,85,Other,Houston,CA,17083,5375.222900000001,Dr. Johnson,General,Phoenix,TX,13631,+1-3961525644,0
+44735.39,23,Other,Los Angeles,NY,27771,52340.406299999995,Dr. Johnson,Cardiology,New York,AZ,16172,+1-2634603289,0
+27427.77,64,Female,Phoenix,AZ,39975,29621.9916,Dr. Patel,Orthopedics,Chicago,AZ,52080,+1-5444021968,0
+40564.57,72,Female,Phoenix,TX,55648,42998.444200000005,Dr. Smith,Orthopedics,Houston,AZ,99097,+1-4845682677,0
+44908.47,57,Other,New York,AZ,58285,42213.9618,Dr. Smith,General,Los Angeles,NY,30281,+1-4411569937,0
+16582.17,69,Other,Phoenix,TX,29063,10778.4105,Dr. Smith,Orthopedics,Phoenix,CA,38671,+1-6578124304,1
+6392.54,33,Female,New York,AZ,77642,5497.5844,Dr. Smith,Dermatology,Houston,NY,61431,+1-2913110767,0
+12168.82,30,Other,Houston,AZ,96143,11195.314400000001,Dr. Johnson,General,Chicago,TX,38602,+1-3420850842,0
+21928.28,47,Male,Los Angeles,AZ,47599,19077.6036,Dr. Wang,Cardiology,Los Angeles,NY,98789,+1-9664314161,1
+41082.72,36,Male,Los Angeles,TX,61920,27936.249600000003,Dr. Wang,General,Los Angeles,TX,61399,+1-3857900749,0
+43175.8,34,Female,New York,TX,38529,37131.188,Dr. Patel,Orthopedics,Phoenix,TX,33472,+1-5625248862,0
+1340.65,80,Female,Los Angeles,AZ,45954,1126.146,Dr. Patel,Cardiology,New York,IL,59230,+1-5994586011,1
+26026.62,36,Female,Phoenix,CA,37856,31231.943999999996,Dr. Johnson,General,Chicago,AZ,83616,+1-3977990528,0
+21453.14,75,Male,Chicago,IL,12573,24242.048199999997,Dr. Wang,Dermatology,Phoenix,TX,17099,+1-7517957800,0
+11883.28,72,Other,New York,IL,88344,9744.2896,Dr. Wang,Dermatology,Chicago,IL,35431,+1-1831114689,0
+6873.4,79,Male,Los Angeles,IL,45367,6460.995999999999,Dr. Smith,General,New York,AZ,66492,+1-8332647125,0
+17543.14,40,Other,New York,TX,70774,17894.0028,Dr. Johnson,Dermatology,New York,TX,57684,+1-5388349969,0
+47202.58,26,Male,New York,TX,33752,24545.341600000003,Dr. Johnson,Dermatology,Phoenix,TX,40111,+1-5012779674,1
+16836.94,29,Other,Chicago,CA,65029,19025.742199999997,Dr. Smith,Dermatology,New York,NY,73936,+1-8013735908,0
+26420.74,18,Male,Phoenix,IL,27685,29062.814000000006,Dr. Johnson,Cardiology,Houston,NY,32614,+1-1340580882,0
+35447.93,75,Female,New York,IL,61693,29067.3026,Dr. Johnson,Dermatology,Los Angeles,AZ,51991,+1-4254064327,1
+18817.85,18,Male,Los Angeles,AZ,65961,14489.744499999999,Dr. Patel,Dermatology,Phoenix,TX,80476,+1-8494458183,0
+48617.32,51,Other,Houston,TX,86908,33545.9508,Dr. Wang,Dermatology,Chicago,CA,70920,+1-4571936011,0
+48159.92,65,Male,New York,IL,84532,39972.7336,Dr. Johnson,Cardiology,Houston,NY,73530,+1-5294919061,0
+13337.33,18,Male,New York,CA,91994,7068.784900000001,Dr. Patel,General,Phoenix,AZ,46224,+1-6269713116,0
+25365.18,33,Male,Chicago,CA,66133,27901.698000000004,Dr. Wang,Orthopedics,New York,TX,17788,+1-9729570398,0
+15743.04,78,Female,Phoenix,IL,71268,8186.380800000001,Dr. Smith,Dermatology,New York,TX,38082,+1-6754343103,1
+14957.18,81,Male,Houston,TX,48243,10918.7414,Dr. Patel,General,New York,CA,99570,+1-7408229206,0
+2807.46,80,Female,Los Angeles,CA,67384,3228.5789999999997,Dr. Patel,Dermatology,New York,AZ,86816,+1-5605200043,0
+30868.65,86,Female,Houston,AZ,41653,31177.3365,Dr. Wang,Cardiology,Chicago,TX,93588,+1-4065894524,0
+25631.27,39,Male,Los Angeles,CA,36657,17941.889,Dr. Smith,General,Houston,NY,26531,+1-5187744813,1
+3522.46,84,Male,Phoenix,NY,49952,2395.2728,Dr. Patel,Cardiology,Los Angeles,CA,98340,+1-9448749197,1
+14653.68,43,Male,Los Angeles,NY,32180,7326.84,Dr. Johnson,Dermatology,Chicago,AZ,54857,+1-4473851203,0
+45505.03,33,Other,Chicago,TX,88411,45049.979699999996,Dr. Johnson,Dermatology,Chicago,CA,20142,+1-7664939344,0
+12738.53,68,Male,Chicago,IL,11622,6751.420900000001,Dr. Johnson,Cardiology,Los Angeles,NY,58355,+1-6891209639,0
+8099.85,74,Female,Chicago,TX,58756,7046.869500000001,Dr. Smith,Orthopedics,Los Angeles,AZ,19866,+1-5790603805,0
+24983.19,46,Male,Chicago,TX,50809,29230.3323,Dr. Patel,Cardiology,New York,CA,80067,+1-9830938854,0
+49296.87,86,Other,Houston,TX,26725,28592.1846,Dr. Johnson,Dermatology,Chicago,IL,74027,+1-4843385738,0
+12860.71,64,Male,Phoenix,TX,71396,14532.602299999997,Dr. Smith,Cardiology,Phoenix,NY,67906,+1-7268596856,1
+33934.64,79,Other,Los Angeles,AZ,61226,40382.2216,Dr. Johnson,Orthopedics,Los Angeles,NY,38138,+1-6764526345,0
+38319.36,86,Other,Los Angeles,AZ,91182,20692.454400000002,Dr. Wang,Cardiology,Los Angeles,NY,39956,+1-5808056404,0
+12644.24,33,Male,Chicago,CA,92565,14161.5488,Dr. Patel,Orthopedics,Houston,IL,86295,+1-6873344845,0
+36682.6,65,Female,Chicago,NY,39402,31547.036,Dr. Patel,Orthopedics,Phoenix,IL,15439,+1-4963331486,0
+19021.37,56,Other,New York,TX,14263,21494.1481,Dr. Smith,Cardiology,Phoenix,TX,57241,+1-1288932110,0
+31982.99,50,Male,Phoenix,CA,56828,28784.691000000003,Dr. Smith,Cardiology,Los Angeles,CA,52533,+1-7292566698,0
+32042.96,40,Male,Houston,NY,57924,30761.241599999998,Dr. Patel,General,New York,TX,38270,+1-8159747318,0
+27252.96,27,Female,Los Angeles,IL,84182,23982.6048,Dr. Johnson,Dermatology,Houston,CA,88815,+1-1535902944,0
+5424.2,86,Other,New York,AZ,69052,6020.862,Dr. Johnson,Orthopedics,Phoenix,IL,49279,+1-7420036387,1
+41929.82,51,Other,New York,NY,21664,42349.1182,Dr. Wang,General,Los Angeles,IL,33888,+1-9044105834,0
+16718.22,69,Male,Los Angeles,IL,45737,14377.6692,Dr. Johnson,Cardiology,Phoenix,TX,27630,+1-3951681233,0
+10139.41,27,Male,Houston,NY,99563,11254.7451,Dr. Smith,Dermatology,Houston,AZ,71063,+1-4522299954,0
+2997.98,36,Female,New York,AZ,39373,2008.6466,Dr. Smith,General,Houston,TX,45144,+1-1319076880,0
+29953.75,75,Female,New York,AZ,46397,18271.7875,Dr. Johnson,Orthopedics,Chicago,CA,62161,+1-1947448262,0
+34200.65,18,Other,Phoenix,CA,96145,20862.3965,Dr. Smith,General,Los Angeles,TX,87360,+1-9530641150,1
+1812.8,86,Other,Houston,TX,48709,1323.3439999999998,Dr. Patel,Orthopedics,Houston,NY,60979,+1-1158761581,0
+26092.56,21,Male,New York,NY,71120,17482.0152,Dr. Patel,Cardiology,Chicago,CA,16979,+1-4388274026,0
+12098.29,33,Other,Houston,NY,29250,13913.0335,Dr. Johnson,Dermatology,Chicago,CA,36189,+1-9183445930,0
+32613.47,41,Female,Los Angeles,IL,31172,18589.6779,Dr. Patel,Dermatology,Phoenix,AZ,52600,+1-9099757206,0
+9543.96,19,Female,Chicago,AZ,21555,9448.5204,Dr. Patel,Dermatology,Phoenix,IL,69560,+1-5112523311,0
+34855.95,49,Male,New York,NY,97410,21959.248499999998,Dr. Wang,Cardiology,Chicago,CA,88040,+1-8164500390,0
+19950.03,41,Female,Phoenix,AZ,88617,22344.033600000002,Dr. Wang,Orthopedics,Phoenix,IL,71558,+1-2474565776,0
+46899.77,29,Female,Los Angeles,NY,63276,54872.730899999995,Dr. Patel,Cardiology,Houston,TX,96205,+1-5344895820,0
+7738.53,67,Female,Houston,CA,67492,6422.979899999999,Dr. Johnson,Dermatology,New York,NY,16910,+1-2207383937,0
+17712.25,52,Female,Los Angeles,TX,63002,19837.72,Dr. Wang,Cardiology,Houston,AZ,67713,+1-6698063800,0
+6560.2,50,Male,New York,NY,99599,3280.1,Dr. Smith,Cardiology,Chicago,IL,56857,+1-2985917805,0
+46309.99,50,Male,Houston,AZ,82355,49551.6893,Dr. Smith,Cardiology,Chicago,CA,44964,+1-2159341460,1
+43989.63,78,Other,Chicago,CA,34762,29033.1558,Dr. Smith,Orthopedics,Houston,IL,95667,+1-2825987424,0
+13639.14,68,Female,Los Angeles,NY,21046,15548.619599999998,Dr. Johnson,General,Phoenix,CA,35227,+1-6815109245,0
+33339.22,60,Other,New York,IL,38769,16669.61,Dr. Patel,General,Phoenix,IL,15978,+1-2442103653,0
+41043.89,29,Male,Phoenix,TX,63302,36529.0621,Dr. Smith,Cardiology,Chicago,CA,97527,+1-3007379013,0
+28204.84,84,Male,Houston,NY,33150,29050.9852,Dr. Johnson,General,Los Angeles,TX,27153,+1-4271778621,0
+26952.88,82,Male,Los Angeles,CA,78247,18327.958400000003,Dr. Wang,General,Phoenix,CA,69765,+1-2423150417,1
+12850.76,50,Male,Los Angeles,IL,14853,8224.4864,Dr. Patel,Cardiology,Houston,CA,49071,+1-8259260797,0
+5562.04,57,Male,Chicago,CA,99399,3114.7424,Dr. Wang,Cardiology,Phoenix,NY,79519,+1-9847323832,0
+44963.57,60,Male,Chicago,CA,31792,32823.4061,Dr. Johnson,Dermatology,Houston,CA,19503,+1-8225905442,0
+45120.48,61,Male,Phoenix,IL,69129,40157.2272,Dr. Smith,General,Chicago,NY,70703,+1-6164847558,0
+32021.97,46,Female,Phoenix,CA,84478,18572.742599999998,Dr. Smith,Orthopedics,Phoenix,AZ,74379,+1-4236979795,0
+17612.46,30,Other,New York,IL,77298,13385.4696,Dr. Johnson,Cardiology,Houston,NY,67866,+1-7320730575,1
+18111.27,29,Male,New York,NY,41987,9236.7477,Dr. Smith,Dermatology,Chicago,TX,26905,+1-2179988571,1
+36571.83,63,Female,Phoenix,IL,25850,39131.858100000005,Dr. Patel,Orthopedics,Los Angeles,NY,55838,+1-2433060132,0
+44958.4,19,Female,Phoenix,IL,22112,26525.456,Dr. Johnson,General,Houston,AZ,68279,+1-5410283085,0
+44467.23,52,Other,Houston,TX,34058,31127.061,Dr. Wang,Dermatology,Los Angeles,TX,99489,+1-7397181142,0
+39213.9,25,Male,Chicago,IL,55420,19999.089,Dr. Johnson,Cardiology,Los Angeles,IL,36806,+1-8720949706,0
