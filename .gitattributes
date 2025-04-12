@@ -1,3 +1,6 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.pyd filter=lfs diff=lfs merge=lfs -text
 *.dll filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 6bd4a34e20224bac84d5ffb25424c2a4f46a8e48
